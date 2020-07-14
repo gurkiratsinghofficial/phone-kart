@@ -25,7 +25,7 @@ export default class Navbar extends Component {
           </li>
           <li className="nav-item ml-5">
             <Link to="/" className="nav-link">
-              <small>Developed by</small><a target="_blank" style={{ color: "white" }}href="https://github.com/gurkiratsinghofficial">Gurkirat Singh</a> 
+              <small>Developed by </small><a target="_blank" style={{ color: "white" }}href="https://github.com/Gaganpreetoberoi">Gaganpreet Singh Oberoi</a> 
             </Link>
           </li>
         </ul>
