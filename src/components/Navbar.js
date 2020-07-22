@@ -23,11 +23,6 @@ export default class Navbar extends Component {
               products
             </Link>
           </li>
-          <li className="nav-item ml-5">
-            <Link to="/" className="nav-link">
-              <small>Developed by </small><a target="_blank" style={{ color: "white" }}href="https://github.com/Gaganpreetoberoi">Gaganpreet Singh Oberoi</a> 
-            </Link>
-          </li>
         </ul>
         <Link to="/cart" className="ml-auto">
           <ButtonContainer>
